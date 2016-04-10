@@ -1,0 +1,14 @@
+package com.javarush.test.level01.lesson03.task02;
+
+/* Вывод на экран переменной
+Объявите переменную name типа String.
+Сразу же в строке объявления присвойте ей какое-нибудь значение.
+Выведите на экран переменную name.
+*/
+public class Task
+{
+    public static void main(String[] args)
+    {
+        //напишите тут ваш код
+    }
+}
