@@ -13,5 +13,9 @@ public class Solution
     public static void print(String s)
     {
         //напишите тут ваш код
+        System.out.println(s);
+        System.out.println(s);
+        System.out.println(s);
+        System.out.println(s);
     }
 }

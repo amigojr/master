@@ -12,7 +12,7 @@ package com.javarush.test.level01.lesson06.task01;
 
 Поцелуй мой блестящий металлический зад!
 */
-public class Solution
+public class Task
 {
     public static void main(String[] args)
     {
