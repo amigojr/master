@@ -11,7 +11,15 @@ public class Task
 {
     public static int min(int a, int b)
     {
-        //напишите тут ваш код
+        int m = min (a, b);
+
+        int m2;
+        if(a<b)
+            m2=a;
+        else
+            m2=b;
+
+        return m2; //напишите тут ваш код
     }
 
     public static void main(String[] args) throws Exception
